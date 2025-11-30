@@ -1,4 +1,11 @@
-[![Header](https://raw.githubusercontent.com/maxchelminski/maxchelminski/main/readme_header_QMSS.png "My LinkedIn")](https://www.linkedin.com/in/maximilian-chelminski-16b356383/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/maximilian-chelminski-16b356383/">
+    <img src="https://raw.githubusercontent.com/maxchelminski/maxchelminski/main/readme_header_QMSS.png" alt="Header" width="75%">
+  </a>
+  <br>
+  <sub>Header image generated with Nano Banana Pro</sub>
+</div>
+
 ## Hello! 👋
   I am a Master's Student at the **Columbia University Graduate School of Arts and Sciences** in the **Quantitative Methods in the Social Sciences** (QMSS) Program, following the **Data Science** focus. I received my Bachelor of Economics from **Nagoya University**, and spent early 2022 to late-mid 2025 living in Japan.  
   Nice to meet you!  
