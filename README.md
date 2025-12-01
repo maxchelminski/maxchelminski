@@ -17,7 +17,7 @@
   Where I am aiming to answer the following research question:  
   > _Has the United States Senate undergone a topological phase transition? Specifically, can we use Spectral Graph Theory to mathematically prove that the Senate has evolved from a connected, multi-dimensional social network into a disconnected, one-dimensional bipartite graph?_  
 
-This has involved translating Senator voting matrices into adjacency matrices, and converting those into Laplacian matrices, which I can then find the eigenvectors and eigenvalues of for analysis. The preliminary results are very fascinating! I aim to publish my findings to a repository in due time!  
+This has involved translating Senator voting records into adjacency matrices, and converting those into Laplacian matrices, which I can then find the eigenvectors and eigenvalues of for analysis. The preliminary results are very fascinating! I aim to publish my findings to a repository in due time!  
 ## I’m currently studying... 🌱  
 - Python
 - Machine Learning
