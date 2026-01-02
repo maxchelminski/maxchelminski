@@ -21,6 +21,8 @@ This has involved translating Senator voting records into adjacency matrices, an
 ## I’m currently studying... 🌱  
 - Python
 - Machine Learning
+- Neural Networks
+- Mechanistic Interpretability
 - PostgreSQL
 - Bash
 - Linear Algebra
