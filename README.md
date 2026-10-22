@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/maximilian-chelminski-16b356383/">
-    <img src="https://raw.githubusercontent.com/maxchelminski/maxchelminski/main/readme_header_QMSS.png" alt="Header" width="75%">
+    <img src="https://raw.githubusercontent.com/maxchelminski/maxchelminski/main/senate-raw-geometry.gif" alt="Header" width="75%">
   </a>
   <br>
-  <sub>Header image generated with Nano Banana Pro</sub>
+  <sub>2D Geometry of Senate Voting Patterns up to 2026</sub>
 </div>
 
 # Hi, I'm Max
