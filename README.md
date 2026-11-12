@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/maxchelminski/eigenpolitics">
+  <a href="https://maxchelminski.github.io/eigenpolitics/">
     <img src="https://raw.githubusercontent.com/maxchelminski/maxchelminski/main/senate-raw-geometry.gif" alt="Header" width="75%">
   </a>
   <br>
