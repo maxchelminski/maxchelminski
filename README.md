@@ -8,7 +8,7 @@
 
 # Hi, I'm Max
 
-I hold an MA in **Quantitative Methods in the Social Sciences from Columbia University** and a **Bachelor of Economics from Nagoya University**. I now work at a stealth startup across software development, product management, and AI integration.
+I hold an MA in **Quantitative Methods in the Social Sciences from Columbia University** and a **Bachelor of Economics from Nagoya University**. My recent work experience spans across software development, product management, and AI integration.
 
 My interests span applied mathematics, computational social science, machine learning, LLMs, and mechanistic interpretability. I'm curious about both how these systems work and what we can build with them.
 
